@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "white-dragon-v",
+  "name": "白龙 · 柔光",
+  "appearance": "light",
+  "brandSubtitle": "主人，欢迎回来",
+  "tagline": "",
+  "statusText": "",
+  "quote": "",
+  "art": {
+    "focusX": 1.0,
+    "focusY": 0.5,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#FCFBFE",
+    "panel": "rgba(255,255,255,0.88)",
+    "panelAlt": "rgba(250,248,255,0.95)",
+    "accent": "#9675C9",
+    "accentAlt": "#BBA1E5",
+    "secondary": "#ECE5F7",
+    "highlight": "#F4F0FB",
+    "text": "#363246",
+    "muted": "#797487",
+    "line": "rgba(165,145,201,0.24)"
+  },
+  "image": "background.png"
+}
